@@ -1,0 +1,5 @@
+- 👋 Hi, I’m May. Great to meet you in Github.
+- 👀 I’m interested in Python and Japanese
+- 🌱 I’m currently learning unicycle and English.
+- 💞️ I’m looking to collaborate on self-study of Python and Japanese.
+- 📫 You can reach me by lostsoulcry@gmail.com.
